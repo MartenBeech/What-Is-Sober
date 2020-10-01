@@ -1,0 +1,43 @@
+ZZZ:
+	Do nothing
+	The Info Box says something funny about another player
+
+Question:
+	Option: Choose another player
+	Roll a d20
+	That player does a challenge or takes sips
+
+Beer:
+	Roll a d20
+	High roll: Split drink between every players
+	Low roll: You drink
+
+Gamble:
+	Play a random game with all players
+
+Treasure:
+	Roll a d20
+	Option 0: Gain a power-up
+	Option 1: Gain a passive effect
+
+Water:
+	Ignore the next time you have to drink
+
+Boat:
+	Option 0: Take a challenge or take sips, and move to the Lighthouse
+	Option 1: Do nothing
+
+Lighthouse:
+	Mess with another player's Pawn
+
+Skull:
+	Roll a d20
+	Gain a curse until your next turn
+
+Demon Duck:
+	Roll a d20
+	Options: Gain the negativest passive effects
+
+Star:
+	Roll a d20
+	Options: Gain the positivest passive effects
